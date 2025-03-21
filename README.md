@@ -22,7 +22,7 @@
 <h3 align="center">📬 Como me encontrar</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/caetano-de-andrade-lupato-bba2b6280/" target="_blank">
+  <a href="https://www.linkedin.com/in/caetano-de-andrade-lupato-bba2b6280/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <span style="margin-right: 10px;"></span>
